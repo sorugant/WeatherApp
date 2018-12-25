@@ -1,0 +1,8 @@
+.help-block{
+    color: red;
+    font-size: 12px;
+}
+
+.formError{
+    border-color: red;
+}
